@@ -1,2 +1,3 @@
 # SupplyMission
-https://github.com/aryamangarg/Project23.git
+https://aryamangarg.github.io/Project23/.
+
